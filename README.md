@@ -39,7 +39,7 @@
 - product_type – тип продукта (trial_premium – пробная премиум-подписка, premium_no_trial – премиум-подписка без пробной, coins – подписка за внутреннюю валюту, other_type – другое)
 
 ## Стек
-Python ( Ppandas, numpy, pingouin, seaborn,scipy.stats, matplotlib)
+Python (pandas, numpy, pingouin, seaborn,scipy.stats, matplotlib)
 
 ## Анализ
 Цель -оценить изменения в данных, происходящие при изменении стоимости премиум-подписки для пользователей из некоторых стран при покупке через две новые платежные системы.
